@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Snake Game:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82f83310-2e4e-4dc0-9be4-e23b561f2ce0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/snake/snakegame/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/snake/snakegame/MainCaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/snake/snakegame/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/snake/snakegame/application.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/snake/snakegame/hello-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="82f83310-2e4e-4dc0-9be4-e23b561f2ce0" name="Changes" comment="Update Commit 10/05/2022 Executable Jar (stand-alone jar)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +38,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/carte/.openjfx/cache/19-ea+7/amd64/vcruntime140_1.dll",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
@@ -67,6 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665009419807</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update Commit 10/05/2022 Executable Jar (stand-alone jar)">
+      <created>1665009806337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665009806337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Commit 10/05/2022 Executable Jar (stand-alone jar)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Commit 10/05/2022 Executable Jar (stand-alone jar)" />
   </component>
 </project>
